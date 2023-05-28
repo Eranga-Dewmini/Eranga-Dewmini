@@ -27,7 +27,9 @@
  <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="https://www.instagram.com/eranga_dewmini/" height="40" width="40" />
   
   <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="https://www.linkedin.com/in/eranga-dewmini/" height="40" width="40" />
-  
+ 
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="mailto:nimeshpiyumantha11@gmail.com" height="40" width="40" />
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
