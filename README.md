@@ -30,6 +30,9 @@
  
   <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="mailto:wadewmieranga@gmail.com" height="40" width="40" />
  
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/behance.png" alt="https://www.behance.net/erangadewmini" height="40" width="40" />
+  
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
